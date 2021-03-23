@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Awewtyd
-- 👀 I’m interested in awewtyd
-- 🌱 I’m currently learning awewtyd
-- 💞️ I’m looking to collaborate on awewtyd
-- 📫 How to reach me awewtyd
+- 👀 I’m interested in Awewtyd
+- 🌱 I’m currently learning Awewtyd
+- 💞️ I’m looking to collaborate on Awewtyd
+- 📫 How to reach me Awewtyd
 
 <!---
 Awewtyd/Awewtyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
